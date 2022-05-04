@@ -32,7 +32,7 @@ namespace PaternBridge
             svrTransportador = new TransportadorTren(svrPaqueteriaEstafeta);
             svrTransportador.Procesar();
 
-            Console.Write("Presiona cualquier tecla para salir del programa...");
+            Console.Write("Presiona cualquier tecla para salir del programa oks...");
             Console.ReadKey();
         }
     }
